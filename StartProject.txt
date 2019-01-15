@@ -1,1 +1,2 @@
-Developed feature A
+Fix terrible bug
+Fixed one more bugDeveloped feature A
