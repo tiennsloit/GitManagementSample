@@ -1,1 +1,2 @@
 Changes to feature 2
+a change that someone need to fetch upstream
